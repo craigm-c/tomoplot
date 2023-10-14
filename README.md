@@ -14,7 +14,7 @@ Tomoplot is an application for use in conjunction with emClarity [found here](ht
 
 To run tomoplot clone the github repository, ensure that the dependencies have been installed and then open a terminal and type:
 
-```python tomoplot.py
+python tomoplot.py
 
 This will open the tomoplot app in your default browser. You can then choose the file you want to use. This should be a .mat file produced by emClarity containing the information about the subtomogram picks made by the software.
 
