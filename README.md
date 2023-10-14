@@ -26,7 +26,7 @@ There are several parameters you can use to define the conditions for picking yo
 You can also choose the angle between the pick and its nearest neighbours and also give an error value.
 You can select the number of nearest neighbours to consider when calculating these values, 5-7 works best.
 The last parameter is called orientation fidelity, this parameter selects based on how closely aligned the orientations of the nearest neighbours are with the pick. The highest value you can choose is the square of the number of nearest neighbours you select.
-To run the cleaning click Clean data. If you are unhappy with the parameters you select simply change them and click Clean data again
+To run the cleaning click Clean data. If you are unhappy with the parameters you select simply change them and click Clean data again.
 
 ## Measuring parameters
 
@@ -34,4 +34,4 @@ If you are unsure what values are suitable for your lattice you can find good va
 
 ## Saving data
 
-Once you are happy with the cleaning type the name you want for your cleaned data and click Save data, this will save your cleaned data which can be used for further processing with emClarity
+Once you are happy with the cleaning type the name you want for your cleaned data and click Save data, this will save your cleaned data which can be used for further processing with emClarity.
