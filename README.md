@@ -1,6 +1,6 @@
 # Tomoplot
 
-Tomoplot is an application for use in conjunction with emClarity [found here](https://github.com/StochasticAnalytics/emClarity) to remove bad picks of proteins which form a regular lattice (see below). [Try it out here](https://live-tomoplot.onrender.com/) You can can't upload or save data but you can use the test data, the data cleaning runs a bit slowly so be patient or download repo and run locally for best performance.
+Tomoplot is an application for use in conjunction with emClarity [found here](https://github.com/StochasticAnalytics/emClarity) to remove bad picks of proteins which form a regular lattice (see below). [Try it out here](https://live-tomoplot.onrender.com/), you can't upload or save data but you can use the test data, the data cleaning runs a bit slowly so be patient or download repo and run locally for best performance.
 
 ![Dashboard](images/dashboard.png)
 
