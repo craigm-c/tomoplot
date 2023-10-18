@@ -110,7 +110,7 @@ app.layout = html.Div([
                     
                 ),
             dbc.Col([
-                    html.Div(dcc.Slider(id='image-slider', min=1, max=1, step=1, value=1))            
+                    html.Div(dcc.Slider(id='image-slider', min=1, max=8, step=1, value=8))            
                 ],
                 style={
                     "height": "60px",
