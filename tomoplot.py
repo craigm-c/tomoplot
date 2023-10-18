@@ -52,7 +52,7 @@ app.layout = html.Div([
                     
                 ),
     			dbc.Col([
-                    html.Div(id='selected-file', children=''),
+                    html.Div(id='selected-file', children='test_data.mat'),
                     html.Div(id='data-store', style={'display': 'none'}),
                     html.Div(id='clean-data-store', children=None, style={'display': 'none'}),
                     html.Div(id='orientation-data-store', children=None, style={'display': 'none'}),
