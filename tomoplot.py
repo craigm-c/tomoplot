@@ -231,12 +231,12 @@ app.layout = html.Div([
                         className="mx-auto my-auto"
                 ),
     			dbc.Col(
-                    dcc.Input(id='neighbour-value', type='number', value=0),
+                    dcc.Input(id='neighbour-value', type='number', value=7),
                         width=2,
                         className="mx-auto my-auto" 
                 ),
     			dbc.Col(
-                    dcc.Input(id='fidelity-value', type='number', value=0, max=0, style={'float': 'right'}),
+                    dcc.Input(id='fidelity-value', type='number', value=37, max=0, style={'float': 'right'}),
                         width=3,
                         className="mx-auto my-auto"
                 ),   
