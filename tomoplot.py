@@ -212,21 +212,21 @@ app.layout = html.Div([
         ]),
     	dbc.Row([
     			dbc.Col(
-                    dcc.Input(id='distance-value', type='number', value=0, style={'width': '80%'}),
+                    dcc.Input(id='distance-value', type='number', value=55, style={'width': '80%'}),
                         className="mx-auto my-auto"  
                 ),
     			dbc.Col(
-                    dcc.Input(id='distance-error', type='number', value=0,  style={'width': '80%'}),
+                    dcc.Input(id='distance-error', type='number', value=15,  style={'width': '80%'}),
                         width=1,
                         className="mx-auto my-auto"  
                 ),
     			dbc.Col(
-                    dcc.Input(id='angle-value', type='number', value=0,  style={'width': '80%'}),
+                    dcc.Input(id='angle-value', type='number', value=60,  style={'width': '80%'}),
                         width=1,
                         className="mx-auto my-auto"
                 ),
     			dbc.Col(
-                    dcc.Input(id='angle-error', type='number', value=0,  style={'width': '80%'}),
+                    dcc.Input(id='angle-error', type='number', value=20,  style={'width': '80%'}),
                         width=1,
                         className="mx-auto my-auto"
                 ),
