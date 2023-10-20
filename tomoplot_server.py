@@ -17,7 +17,7 @@ from tomo_functions import *
 fig = go.Figure()
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.SOLAR])
-
+server = app.server
 
 app.layout = html.Div([
     dbc.Container([
